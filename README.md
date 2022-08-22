@@ -1,2 +1,15 @@
 # MarvelApp
  It's a Marvel app that I coded with React-Native. Marvel API is used in the application. The user can register and log in with his e-mail address. In the application, the user can view the Marvel characters and information such as the comics with those characters. Likewise, it can display a comic book and the characters in that comic. There is also a comic book detail or character detail screen in the application. You can see the characters, stories, etc. in the comic book detail screen. There is information such as comics and stories in the character detail.
+![1](https://user-images.githubusercontent.com/73830412/185947636-a7bbe329-80ca-41e6-bbdc-0ad88be1dbcb.png)
+![2](https://user-images.githubusercontent.com/73830412/185947645-df223c83-5c11-4c4d-ab3c-215e30d3cfea.png)
+![3](https://user-images.githubusercontent.com/73830412/185947654-9916a289-f891-4769-8cd3-4a8bd352817f.png)
+![4](https://user-images.githubusercontent.com/73830412/185947667-60a39865-a524-4c1f-b464-1de0446d1cb0.png)
+![5](https://user-images.githubusercontent.com/73830412/185947684-90e93adf-48b9-4488-a7a0-57a014f65f6f.png)
+![6](https://user-images.githubusercontent.com/73830412/185947695-62cfa706-fb63-4736-a29c-c7790971a460.png)
+![7character](https://user-images.githubusercontent.com/73830412/185947702-ba97a2fe-b584-43fc-a99c-99b78422b9bc.png)
+![8comics](https://user-images.githubusercontent.com/73830412/185947709-ad794aeb-ac0b-4e12-9839-69b1bd468879.png)
+![9serie](https://user-images.githubusercontent.com/73830412/185947713-54cc0e38-7dc1-4232-a15b-d41c8d265f76.png)
+![10event](https://user-images.githubusercontent.com/73830412/185947717-4ead6ea3-6eae-4d26-95eb-38ea2c57bb89.png)
+![11storie](https://user-images.githubusercontent.com/73830412/185947721-7d0f99b1-ce29-4dbc-b092-298fca456c3c.png)
+![12creator](https://user-images.githubusercontent.com/73830412/185947726-bb74bfa4-f171-4c69-b2ec-4929c001a625.png)
+![13](https://user-images.githubusercontent.com/73830412/185947734-88b30278-f3da-46ca-8b4c-e857016d25e6.png)
